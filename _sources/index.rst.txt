@@ -23,4 +23,5 @@ NWAI : Web Template Guide
       
    common
    login
+   navigation
    dashboard

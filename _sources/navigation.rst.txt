@@ -1,0 +1,36 @@
+**2-3. 메뉴(네비게이션)**
+============================
+
+- 메뉴 네비게이션 입니다.
+- 상단 네비게이션 / 좌측 네비게이션 중 1 가지를 택하여 사용
+- Dark / Light 테마 중 1 가지를 택하여 사용
+- 선택한 테마에 맞는 html / css 파일 다운로드 
+
+상단 네비게이션
+--------------------
+- `Html 소스보기 <https://github.com/eugenekk/template/blob/master/html/login.html>`_
+- `Dark css 소스보기 <https://github.com/eugenekk/template/blob/master/css/login_dark.css>`_
+
+- 예시이미지
+
+.. |icon00| image:: images/manual/login_dark.png
+
++----------+
+| |icon00| |
++----------+
+
+
+죄측 네비게이션
+------------------
+
+- `Html 소스보기 <https://github.com/eugenekk/template/blob/master/html/login.html>`_
+- `Light css 소스보기 <https://github.com/eugenekk/template/blob/master/css/login_light.css>`_
+
+
+- 예시이미지
+
+.. |icon01| image:: images/manual/login_light.png
+
++----------+
+| |icon01| |
++----------+
